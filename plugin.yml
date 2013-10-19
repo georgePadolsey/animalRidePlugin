@@ -1,0 +1,7 @@
+name: HorseRandomStuffz
+main: horseRandomStuffz.georgep.pokuit.AnimalPlugin
+version: 1.0
+commands:
+   mob:
+      description: MOB
+      usage: /<command>
