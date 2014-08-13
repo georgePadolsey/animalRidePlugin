@@ -1,6 +1,6 @@
 Animal Ride Plugin
 ==================
-Animal ride plugin (ARD) allows people to ride almost any mob
+Pet Plugin That allows you to ride the pets!
 
 Developers
 ==========
